@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on NashTech
+- 🔭 I’m currently working for NashTech
 - 🌱 I’m currently learning Computer Science
 <!--
 **LocLinh/LocLinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
